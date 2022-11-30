@@ -21,4 +21,8 @@ Proje örnek görsel:
 ![Adsız tasarım](https://user-images.githubusercontent.com/118726723/204866184-115ee0ac-ccee-4b7f-a0c8-b1327039d93c.gif)
 ## Hazırlayan
 **Medetcan Diler**
+[Patika.dev profilim](https://app.patika.dev/meddo)
+
+[Github profilim](https://github.com/medetcandiler)
+
 
