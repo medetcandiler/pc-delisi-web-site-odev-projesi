@@ -156,3 +156,7 @@ h3.footer{
 /***********Footer-end  *************/
 
 
+/* ****************ÜRÜNLER******************* */
+main.ürünler{
+    display: inline-block;
+}
