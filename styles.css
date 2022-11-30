@@ -88,7 +88,7 @@ section{
     font-size: 1.5em;
 }
 .fs-small{
-    color:  #a0a6a6;
+    color:  black;
     font-size: 0.9em;
 }
 div.tarih{
@@ -157,6 +157,36 @@ h3.footer{
 
 
 /* ****************ÜRÜNLER******************* */
-main.ürünler{
-    display: inline-block;
+main#ürünler{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    background-color: #F0FFFF;
+
 }
+section.ürünler{
+    text-align: center;
+    padding: 50px 40px; 
+    border-right: 1px solid #d1d1d1;
+    
+    
+}
+
+p.text-1{
+    font-size: 1em;
+    opacity: 0.8;
+}
+img.vitrin{
+    margin-bottom: 30px;
+    opacity: 0.8;
+}
+section p img{
+    width: 15px;
+}
+img.vitrin:hover{
+    opacity: 1;
+}
+
+
+
+    
