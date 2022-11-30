@@ -13,13 +13,21 @@ header{
     height: 60px;
     
 }
-
+li{
+    list-style-type: none;
+}
 nav ul li{
     list-style-type: none;
     align-items: flex-end;
     margin: 5px;
     margin-right: 25px;
     
+}
+a.info{
+    color:black;
+    text-decoration:none;
+    list-style-type: none;
+
 }
 a.nav{
     color: white;
@@ -188,5 +196,63 @@ img.vitrin:hover{
 }
 
 
+/* ******************* HAKKIMIZDA********************* */
+
+main#about-us{
+    display: flex;
+    justify-content:center ;
+    align-items: stretch;
+    background-color: #F0FFFF;
+    height: 800px;
+    text-align: center;
+}
+article.aboutpart   {
+    border: 1px solid wheat;
+    background-color: wheat;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top:100px
+}
+div.info{
+    display: grid;
+    border: 1px solid white;
+    background-color: wheat;
+    border-radius: 20px;
+    margin-top: 100px;
+    height: 200px;
+    width: 500px;
+
+   
+
+}
+div.sikayet{
+    border: 1px solid white;
+    background-color: wheat;
+    border-radius: 20px;
+    margin-top:10px;
+    width: 500px;
+    
+
+}
+section.aboutus{
+    
+}
+a.info{
+    border: 1px solid #162a35;
+    background-color: #162a35;
+    border-radius:10px;
+    margin:20px;
+    color: white;
 
     
+}
+a.info:hover{
+    color: wheat;
+    
+}
+input.sikayetkutusu{
+    margin-bottom:30px;
+
+}
+
+
