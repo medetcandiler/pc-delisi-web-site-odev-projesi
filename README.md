@@ -13,7 +13,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 * Liste oluşturma çalışmaları
 * Blok ve İnline elementler çalışmaları
 * İcon ekleme çalışmaları
-* Henüz başlamamış olsakta bir kaç css renklendirme çalışmaları.
+* CSS çalışmaları
 
 
 Proje örnek görsel:
